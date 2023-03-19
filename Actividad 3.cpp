@@ -6,7 +6,7 @@ CENTRO UNIVERSITARIO DE LOS ALTOS / UNIVERSIDAD DE GUADALAJARA
 INGENIERÍA EN COMPUTACIÓN / 2DO SEMESTRE
 PROFESOR: Carlos Javier Cruz Franco
 DESCRIPCION: Le daremos un numero y dependiendo de este, se sumara cierto numero cierta cantidad de veces
-***************************/
+****************************/
 #include <iostream>
 using namespace std;
 
